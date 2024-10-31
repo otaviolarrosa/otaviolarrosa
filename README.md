@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello, Otávio
 
-<!--
-**otaviolarrosa/otaviolarrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here my website where I share some thoughts I have about tech https://otaviolarrosa.com/
+<h2> Conect with me: </h2>
+<div>
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/otaviolarrosa/) 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:otaviolarrosa@outlook.com) 
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/otaviolarrosa)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Open Source Projects</h3>
+Stream Net: https://stream-net.github.io/docs/
+SharpHelper: https://www.nuget.org/packages/SharpHelper/
