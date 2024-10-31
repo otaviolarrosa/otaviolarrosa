@@ -11,4 +11,5 @@ Here my website where I share some thoughts I have about tech https://otaviolarr
 
 <h3>Open Source Projects</h3>
 Stream Net: https://stream-net.github.io/docs/
+<br />
 SharpHelper: https://www.nuget.org/packages/SharpHelper/
