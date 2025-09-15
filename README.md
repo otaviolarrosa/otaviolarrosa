@@ -1,6 +1,6 @@
 ## Hello, Otávio
 
-Here my website where I share some thoughts I have about tech https://otaviolarrosa.com/
+Here my website where I share some thoughts I have about tech [https://otaviolarrosa.com/](https://otaviolarrosa.github.io/blog/)
 <h2> Conect with me: </h2>
 <div>
 
